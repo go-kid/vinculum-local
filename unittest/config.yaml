@@ -1,0 +1,6 @@
+Config:
+  f1: 1234
+  f2: [a,b,c]
+  f3:
+    a: a
+    b: b
